@@ -7,7 +7,7 @@
 /logs
 /loras
 /models
-/presets
+# /presets
 /prompts
 /repositories
 /softprompts
@@ -17,10 +17,10 @@
 /CMD_FLAGS.txt
 /img_bot*
 /img_me*
-/models/config-user.yaml
+# /models/config-user.yaml
 /notification.mp3
-/settings*.json
-/settings*.yaml
+# /settings*.json
+# /settings*.yaml
 
 .chroma
 .DS_Store
