@@ -1,14 +1,13 @@
 start_with: |-
   <think>
-  嗯，用戶發來了一個請求。首先，我將全力分析如何提供高質量輸出
+  嗯，用户发来了一个请求。首先，我将全力分析如何提供高质量输出
 mode: chat
 chat_style: wpp
 prompt-default: None
 prompt-notebook: None
-preset: 2025deepseek
+preset: 2025qwen
 max_new_tokens: 4096
 truncation_length: 16384
-custom_token_bans: 9909, 100133, 100138, 99812, 112811, 101931
 dark_theme: false
 default_extensions:
 - Training_PRO
